@@ -1,2 +1,2 @@
 # registration-form
-Registration form template with react.js
+Controlled registration form template with react.js
